@@ -1,7 +1,7 @@
 # Hi, I'm Alfa Daniel 👋 
 ### Data Analyst | Business Intelligence & Supply Chain Specialist
 
-I am a Data Analyst passionate about transforming complex industrial and production datasets into clear, actionable insights. With a background in **Computer Science** and hands-on experience in **Manufacturing Analytics**, I specialize in bridge the gap between raw data and business growth.
+Data Analyst with experience in manufacturing and production environments. Proficient in leveraging SQL, Python, and Power BI to extract actionable insights from ERP (Orion) systems. Proven track record of identifying operational inefficiencies and delivering data-driven recommendations that support strategic planning and cost optimization.
 
 ---
 
