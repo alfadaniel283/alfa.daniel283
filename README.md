@@ -46,7 +46,7 @@ Data Analyst with experience in manufacturing and production environments. Profi
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/[Alfa Daniel]]([https://www.linkedin.com/in/alfa-daniel-8a8494332/])
+- **LinkedIn:** [linkedin.com/in/[alfa-daniel-8a8494332/]]([https://www.linkedin.com/in/alfa-daniel-8a8494332/])
 - **Email:** [engineersoftware283@gmail.com](mailto:engineersoftware283@gmail.com)
 - **Portfolio Website:** [alfadaniel.github.io](https://alfadaniel.github.io)
 
