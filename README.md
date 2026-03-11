@@ -6,8 +6,8 @@ I am a Data Analyst passionate about transforming complex industrial and product
 ---
 
 ### 🚀 At a Glance
-- 🏢 **Current Role:** Data Analyst (MIS) at **West African Ceramic Limited**.
-- 🎓 **Education:** B.Sc. Computer Science, **Federal University Lokoja** (Class of 2025).
+- 🏢 **Current Role:** Data Analyst at **West African Ceramic Limited**.
+- 🎓 **Education:** B.Sc. Computer Science, **Federal University Lokoja**.
 - 🛠️ **Core Focus:** Optimizing production workflows, ERP data management, and automated KPI reporting.
 - 🌍 **Goal:** Helping global organizations make data-driven decisions through scalable BI solutions.
 
