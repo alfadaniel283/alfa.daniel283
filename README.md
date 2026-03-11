@@ -1,9 +1,57 @@
-# Hi 👋, I'm Alfa Daniel
+# Hi, I'm Alfa Daniel 👋 
+### Data Analyst | Business Intelligence & Supply Chain Specialist
 
-###     Data Analyst | Business Intelligence & Supply Chain
+I am a Data Analyst passionate about transforming complex industrial and production datasets into clear, actionable insights. With a background in **Computer Science** and hands-on experience in **Manufacturing Analytics**, I specialize in bridge the gap between raw data and business growth.
 
-- 💬 Ask me about **Python, SQL, Power Bi, Excel**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+### 🚀 At a Glance
+- 🏢 **Current Role:** Data Analyst (MIS) at **West African Ceramic Limited**.
+- 🎓 **Education:** B.Sc. Computer Science, **Federal University Lokoja** (Class of 2025).
+- 🛠️ **Core Focus:** Optimizing production workflows, ERP data management, and automated KPI reporting.
+- 🌍 **Goal:** Helping global organizations make data-driven decisions through scalable BI solutions.
 
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Visualisation** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) |
+| **Business Systems** | ![ERP](https://img.shields.io/badge/ERP_Systems-Orion-blue?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+### 📂 Featured Projects
+
+#### 📊 [Production Performance & KPI Dashboard](https://github.com/alfadaniel283/production-kpi-dashboard)
+*Automated monthly reporting for manufacturing KPIs including downtime, output, and rejection rates.*
+- **Tools:** Power BI, Orion ERP.
+- **Impact:** Reduced reporting time by 20% and improved production transparency for stakeholders.
+
+#### 📉 [Raw Material Consumption Analysis](https://github.com/alfadaniel283/raw-material-analysis)
+*Identifying wastage and variances in raw material usage across production lines.*
+- **Tools:** Advanced Excel, Pivot Tables and Dashboard.
+- **Impact:** Identified a 12% variance in usage, leading to cost-saving inventory controls.
+
+#### ⚙️ [Machinery Spares Cost & Usage Audit](https://github.com/alfadaniel283/machinery-spares-analytics)
+*Audit of spare parts consumption to optimize maintenance schedules and reduce machine downtime.*
+- **Tools:** Excel, Pivot Tables.
+- **Impact:** Provided recommendations that reduced machinery downtime by 15%.
+
+---
+
+### 📈 GitHub Stats
+![Alfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfadaniel283&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/[YOUR_LINKEDIN_USERNAME]]([YOUR_LINKEDIN_LINK])
+- **Email:** [engineersoftware283@gmail.com](mailto:engineersoftware283@gmail.com)
+- **Portfolio Website:** [alfadaniel.github.io](https://alfadaniel.github.io)
+
+---
+*"Data is the new oil, but only if you know how to refine it."*
