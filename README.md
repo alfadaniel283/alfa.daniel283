@@ -43,13 +43,10 @@ Data Analyst with experience in manufacturing and production environments. Profi
 
 ---
 
-### 📈 GitHub Stats
-![Alfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfadaniel283&show_icons=true&theme=radical)
-
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/[YOUR_LINKEDIN_USERNAME]]([YOUR_LINKEDIN_LINK])
+- **LinkedIn:** [linkedin.com/in/[Alfa Daniel]]([https://www.linkedin.com/in/alfa-daniel-8a8494332/])
 - **Email:** [engineersoftware283@gmail.com](mailto:engineersoftware283@gmail.com)
 - **Portfolio Website:** [alfadaniel.github.io](https://alfadaniel.github.io)
 
