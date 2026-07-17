@@ -48,7 +48,7 @@ Data Analyst with experience in manufacturing and production environments. Profi
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/alfa-daniel-8a8494332/](https://www.linkedin.com/in/alfa-daniel-8a8494332/)
 - **Email:** [engineersoftware283@gmail.com](mailto:engineersoftware283@gmail.com)
-- **Portfolio Website:** [alfadaniel.github.io](https://alfadaniel.github.io)
+- **Portfolio Website:** [alfadaniel.github.io](https://alfadaniel283.github.io/alfa.daniel283/)
 
 ---
 *"Data is the new oil, but only if you know how to refine it."*
