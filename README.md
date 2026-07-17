@@ -1,7 +1,5 @@
---- START OF FILE text/markdown ---
-
 # Hi, I'm Alfa Daniel 👋 
-### Data Analyst| Production Analyst | Business Intelligence & Supply Chain Specialist
+### Data Analyst | Production Analyst | Business Intelligence & Supply Chain Specialist
 
 Data Analyst with experience in manufacturing and global retail analytics. Proficient in leveraging SQL (T-SQL), Python, and Power BI to build end-to-end BI lifecycles—from automated ETL processes and Star Schema modeling to executive-level dashboards. Proven track record of identifying "Value Leakage" and optimizing supply chain workflows.
 
@@ -21,7 +19,7 @@ Data Analyst with experience in manufacturing and global retail analytics. Profi
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-blue?style=for-the-badge&logo=microsoft-sql-server) |
 | **Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Visualisation** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
+| **Visualisation** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-EE6B4D?style=for-the-badge&logo=apache-superset&logoColor=white) |
 | **Data Engineering**| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
