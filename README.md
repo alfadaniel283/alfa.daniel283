@@ -26,7 +26,7 @@ Data Analyst with experience in manufacturing and global retail analytics. Profi
 
 ### 📂 Featured Projects
 
-#### 🌟 [Superstore Strategic Performance: BI Lifecycle](https://github.com/alfadaniel283/superstore-bi-lifecycle)
+#### 🌟 [Superstore Strategic Performance: BI Lifecycle](https://github.com/alfadaniel283/Amingo-superstore-analysis)
 *A comprehensive diagnostic analysis moving beyond basic charts to identify drivers of profitability and customer behavior.*
 - **Tools:** Python (SQLAlchemy), SQL Server (T-SQL), Power BI.
 - **Key Deliverables:** Engineered a **Star Schema** with 5 dimensions; implemented **RFM Modeling** and Basket Analysis via SQL Views.
@@ -51,8 +51,8 @@ Data Analyst with experience in manufacturing and global retail analytics. Profi
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/alfa-daniel-8a8494332/](https://www.linkedin.com/in/alfa-daniel-8a8494332/)
-- **Email:** [engineersoftware283@gmail.com](mailto:engineersoftware283@gmail.com)
+- **Email:** [alfa.daniel283@gmail.com](mailto:alfa.daniel283@gmail.com)
 - **Portfolio Website:** [alfadaniel283.github.io](https://alfadaniel283.github.io/alfa.daniel283/)
 
 ---
-*"Data is the new oil, but only if you know how to refine it."*
+*"Complexity Simplified, Insight Amplified"*
